@@ -71,7 +71,7 @@ I don't just write code—I bridge the gap between complex **Machine Learning mo
 
 | Project | Description | Live Link |
 |---------|-------------|-----------|
-| **Prompt Tutor AI** | AI SaaS platform utilizing Gemini API to analyze, score, and optimize LLM prompts across 5 dimensions. | [promptutor.app](https://promptutor.app) |
+| **Prompt Tutor AI** | AI SaaS platform utilizing Gemini API to analyze, score, and optimize LLM prompts across 5 dimensions. | [Live App](https://promptutor.app) |
 | **PhishGuard AI** | NLP-powered phishing detection engine achieving 98.26% accuracy using TF-IDF & Logistic Regression. | [Live App](https://gmail-phish-guard.vercel.app) |
 | **Medical Diagnostic System** | Full-Stack diagnostic engine benchmarking 7 ML models mapped with a highly relational Neo4j graph DB. | [Live App](https://medical-diagnostic-sys.vercel.app) |
 
