@@ -1,16 +1,16 @@
 <h1 align="center">Hi there, I'm Sufyan Ahmad! 👋</h1>
 
-<h3 align="center">Full-Stack AI Software Engineer | SaaS Builder | AI Enthusiast</h3>
+<h3 align="center">Full-Stack AI Software Engineer | Agentic AI & RAG Architect | SaaS Builder</h3>
 
 <p align="center">
   <a href="https://sufyexpert.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Website-1A3C6E?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-sufyexpert.dev-1A3C6E?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/sufy-expert" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-sufy--expert-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:sufyexpert@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -18,12 +18,12 @@
 
 ### 👨‍💻 About Me:
 
-I don't just write code—I bridge the gap between complex **Machine Learning models** and beautiful, deployable **SaaS applications**. My goal is to turn ideas into scalable, AI-powered products that deliver real business results.
+I don't just write code—I bridge the gap between complex **Machine Learning models** and beautiful, deployable **SaaS applications**. My core focus is building intelligent, data-driven systems that actually solve business problems.
 
 - 🎓 **Education:** 6th-semester CS Student at COMSATS University Islamabad, Lahore Campus.
 - 🏆 **Leadership:** President / Chairperson at **ACM COMSATS Lahore Chapter** (2025–2026).
-- 🚀 **What I Build:** End-to-end AI Web Apps, Intelligent Chatbots (RAG), and Cross-Platform Mobile Apps.
-- 🧠 **Currently Learning:** Advanced LLM Integration, Prompt Engineering, DevOps, and Cloud Deployment.
+- 🚀 **What I Build:** End-to-end AI SaaS, Agentic AI Systems, and advanced RAG (Retrieval-Augmented Generation) architectures.
+- 🧠 **Currently Learning:** Autonomous AI Agents, Advanced LLM Prompting, DevOps, and Cloud Deployment.
 - ⚡ **Fun Fact:** I’ve shipped multiple live AI products, including a prompt optimization SaaS and an NLP phishing detector!
 
 ---
