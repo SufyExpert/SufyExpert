@@ -4,13 +4,16 @@
 
 <p align="center">
   <a href="https://sufyexpert.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-sufyexpert.dev-1A3C6E?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/-Portfolio-1A3C6E?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/sufy-expert" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-sufy--expert-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:sufyexpert@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://ywhocytfjiubouhehiuj.supabase.co/storage/v1/object/public/cv/Sufyan_Ahmad_CV.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/-Resume-4CAF50?style=flat&logo=readdotcv&logoColor=white" alt="Resume" />
   </a>
 </p>
 
