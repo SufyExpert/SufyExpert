@@ -103,10 +103,6 @@ I don't just write code—I bridge the gap between complex **Machine Learning mo
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SufyExpert&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SufyExpert&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" />
-</p>
-
 ---
 
 ### 📈 Activity & Metrics (lowlighter)
