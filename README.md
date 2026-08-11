@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3A7BD5&center=true&vCenter=true&width=600&lines=Full-Stack+AI+Software+Engineer;Agentic+AI+%26+RAG+Architect;SaaS+Builder" alt="Sufyan's Titles" />
+</p>
+
+<p align="center">
   <a href="https://sufyexpert.dev" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-1A3C6E?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
