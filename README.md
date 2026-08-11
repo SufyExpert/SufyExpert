@@ -1,4 +1,6 @@
-<h1 align="center">Hi there, I'm Sufyan Ahmad! 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Sufyan%20Ahmad&fontSize=42&fontColor=000000&animation=fadeIn&subtext=AI/ML%20Engineer%20%7C%20Agentic%20AI%20and%20RAG%20Architect%20%7C%20Community%20Builder&subtextBg=false&subfontSize=18" alt="Header Banner" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3A7BD5&center=true&vCenter=true&width=600&lines=Full-Stack+AI+Software+Engineer;Agentic+AI+%26+RAG+Architect;SaaS+Builder" alt="Sufyan's Titles" />
