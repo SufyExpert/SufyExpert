@@ -95,8 +95,8 @@ I don't just write code—I bridge the gap between complex **Machine Learning mo
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SufyExpert&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=1800" alt="Sufyan's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SufyExpert&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=1800" alt="Top Languages" />
+  <img src="https://github-readme-stats-two-orcin-29.vercel.app/api?username=SufyExpert&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=1800" alt="Sufyan's GitHub Stats" />
+  <img src="https://github-readme-stats-two-orcin-29.vercel.app/api/top-langs/?username=SufyExpert&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 <p align="center">
