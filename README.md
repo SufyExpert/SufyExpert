@@ -1,5 +1,6 @@
-<h1 align="center" style="font-size: 3em; font-weight: bold;">Sufyan Ahmad</h1>
-<h3 align="center">AI/ML Engineer | Agentic AI and RAG Architect | Community Builder</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A7BD5,100:3a6073&height=240&section=header&text=Sufyan%20Ahmad&fontSize=52&fontColor=ffffff&animation=fadeIn&subtext=AI/ML%20Engineer%20%7C%20Agentic%20AI%20and%20RAG%20Architect%20%7C%20Community%20Builder&subtextBg=false&subfontSize=16" alt="Header Banner" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3A7BD5&center=true&vCenter=true&width=600&lines=Full-Stack+AI+Software+Engineer;Agentic+AI+%26+RAG+Architect;SaaS+Builder" alt="Sufyan's Titles" />
