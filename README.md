@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A7BD5,100:3a6073&height=240&section=header&text=Sufyan%20Ahmad&fontSize=60&fontAlignY=35&fontColor=ffffff&animation=fadeIn&desc=AI/ML%20Engineer%20%7C%20Agentic%20AI%20and%20NLP%20Specialist&descAlignY=58&descSize=18&descColor=ffffff" alt="Header Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A7BD5,100:3a6073&height=240&section=header&text=Sufyan%20Ahmad&fontSize=60&fontAlignY=35&fontColor=ffffff&animation=fadeIn&desc=AI/ML%20Engineer%20%7C%20Agentic%20AI%20%26%20NLP%20Engineer%20%7C%20Community%20Builder&descAlignY=58&descSize=18&descColor=ffffff&fontAlign=50&descAlign=50" alt="Header Banner" />
 </p>
 
 <p align="center">
@@ -38,17 +38,22 @@ I build practical AI systems that connect intelligent reasoning with real-world 
 ### 🛠️ Tech Stack & Tools
 
 <details open>
-<summary><b>🧠 AI & Machine Learning</b></summary>
+<summary><b>🧠 Agentic AI, GenAI & NLP</b></summary>
 <br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/LLM%20APIs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLM APIs"/>
+  <img src="https://img.shields.io/badge/NLP-7A5CFA?style=for-the-badge&logo=python&logoColor=white" alt="NLP"/>
+  <img src="https://img.shields.io/badge/RAG-0EA5E9?style=for-the-badge&logo=semanticweb&logoColor=white" alt="RAG"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-3B82F6?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/>
+  <img src="https://img.shields.io/badge/Agentic%20AI-22C55E?style=for-the-badge&logo=chatbot&logoColor=white" alt="Agentic AI"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-  <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" alt="Gemini API"/>
-  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
   <img src="https://img.shields.io/badge/Groq-FF6F61?style=for-the-badge&logo=groq&logoColor=white" alt="Groq"/>
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" alt="Gemini"/>
 </details>
 
 <details open>
