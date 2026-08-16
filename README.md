@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A7BD5,100:3a6073&height=240&section=header&text=Sufyan%20Ahmad&fontSize=60&fontAlignY=35&fontColor=ffffff&animation=fadeIn&desc=AI/ML%20Engineer%20%7C%20Agentic%20AI%20and%20RAG%20Architect%20%7C%20Community%20Builder&descAlignY=58&descSize=18&descColor=ffffff&fontAlign=50&descAlign=50" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A7BD5,100:3a6073&height=240&section=header&text=Sufyan%20Ahmad&fontSize=60&fontAlignY=35&fontColor=ffffff&animation=fadeIn&desc=AI/ML%20Engineer%20%7C%20Agentic%20AI%20%26%20NLP%20Engineer%20%7C%20Community%20Builder&descAlignY=58&descSize=18&descColor=ffffff&fontAlign=50&descAlign=50" alt="Header Banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3A7BD5&center=true&vCenter=true&width=600&lines=Full-Stack+AI+Software+Engineer;Agentic+AI+%26+RAG+Architect;SaaS+Builder" alt="Sufyan's Titles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3A7BD5&center=true&vCenter=true&width=600&lines=AI/ML+Engineer;Agentic+AI+%26+NLP+Specialist;Generative+AI+Builder" alt="Sufyan's Titles" />
 </p>
 
 <p align="center">
@@ -23,19 +23,19 @@
 
 ---
 
-### 👨‍💻 About Me:
+### 👨‍💻 About Me
 
-I don't just write code—I bridge the gap between complex **Machine Learning models** and beautiful, deployable **SaaS applications**. My core focus is building intelligent, data-driven systems that actually solve business problems.
+I build practical AI systems that connect intelligent reasoning with real-world software. My focus is on Agentic AI, Generative AI, Retrieval-Augmented Generation, NLP, and machine learning solutions that solve business problems and improve user experiences.
 
-- 🎓 **Education:** 6th-semester CS Student at COMSATS University Islamabad, Lahore Campus.
+- 🎓 **Education:** 6th-semester CS student at COMSATS University Islamabad, Lahore Campus.
 - 🏆 **Leadership:** President / Chairperson at **ACM COMSATS Lahore Chapter** (2025–2026).
-- 🚀 **What I Build:** End-to-end AI SaaS, Agentic AI Systems, and advanced RAG (Retrieval-Augmented Generation) architectures.
-- 🧠 **Currently Learning:** Autonomous AI Agents, Advanced LLM Prompting, DevOps, and Cloud Deployment.
-- ⚡ **Fun Fact:** I've shipped multiple live AI products, including a prompt optimization SaaS and an NLP phishing detector!
+- 🚀 **What I Build:** Agentic AI systems, Generative AI products, NLP workflows, RAG architectures, and AI-powered SaaS applications.
+- 🧠 **Currently Learning:** Autonomous AI agents, advanced prompting, LLM orchestration, cloud deployment, and production-grade AI systems.
+- ⚡ **Fun Fact:** I’ve shipped live AI products including a prompt optimization SaaS and an NLP phishing detector.
 
 ---
 
-### 🛠️ Tech Stack & Tools:
+### 🛠️ Tech Stack & Tools
 
 <details open>
 <summary><b>🧠 AI & Machine Learning</b></summary>
@@ -44,13 +44,17 @@ I don't just write code—I bridge the gap between complex **Machine Learning mo
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
   <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" alt="Gemini API"/>
   <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API"/>
+  <img src="https://img.shields.io/badge/Groq-FF6F61?style=for-the-badge&logo=groq&logoColor=white" alt="Groq"/>
 </details>
 
 <details open>
-<summary><b>🌐 Frontend & Mobile</b></summary>
+<summary><b>🌐 Frontend & Product UI</b></summary>
 <br>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
@@ -61,8 +65,10 @@ I don't just write code—I bridge the gap between complex **Machine Learning mo
 <details open>
 <summary><b>⚙️ Backend, Databases & Cloud</b></summary>
 <br>
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
   <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j"/>
@@ -72,13 +78,13 @@ I don't just write code—I bridge the gap between complex **Machine Learning mo
 
 ---
 
-### 🚀 Featured Live Projects:
+### 🚀 Featured Live Projects
 
 | Project | Description | Live Link |
 |---------|-------------|-----------|
-| **Prompt Tutor AI** | AI SaaS platform utilizing Gemini API to analyze, score, and optimize LLM prompts across 5 dimensions. | [Live App](https://promptutor.app) |
-| **PhishGuard AI** | NLP-powered phishing detection engine achieving 98.26% accuracy using TF-IDF & Logistic Regression. | [Live App](https://gmail-phish-guard.vercel.app) |
-| **Medical Diagnostic System** | Full-Stack diagnostic engine benchmarking 7 ML models mapped with a highly relational Neo4j graph DB. | [Live App](https://medical-diagnostic-sys.vercel.app) |
+| **Prompt Tutor AI** | AI SaaS platform that analyzes, scores, and optimizes LLM prompts across multiple dimensions to improve output quality and reliability. | [Live App](https://promptutor.app) |
+| **PhishGuard AI** | NLP-powered phishing detection engine achieving high accuracy using TF-IDF and machine learning classifiers. | [Live App](https://gmail-phish-guard.vercel.app) |
+| **Medical Diagnostic System** | ML-powered diagnostic engine benchmarking multiple models and integrating a relational graph structure for decision support. | [Live App](https://medical-diagnostic-sys.vercel.app) |
 
 ---
 
@@ -88,11 +94,11 @@ I don't just write code—I bridge the gap between complex **Machine Learning mo
   <img src="https://raw.githubusercontent.com/SufyExpert/SufyExpert/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake animation eating my contribution graph" />
 </p>
 
-> Auto-generated daily by a GitHub Action that "eats" my contribution graph. Setup instructions are at the bottom of this file.
+> Auto-generated daily by a GitHub Action that “eats” my contribution graph.
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-two-orcin-29.vercel.app/api?username=SufyExpert&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=1800" alt="Sufyan's GitHub Stats" />
@@ -111,12 +117,10 @@ I don't just write code—I bridge the gap between complex **Machine Learning mo
   <img src="https://raw.githubusercontent.com/SufyExpert/SufyExpert/main/github-metrics.svg" alt="Detailed activity metrics: isocalendar, habits, languages, activity timeline" />
 </p>
 
-> Rendered by a single [lowlighter/metrics](https://github.com/lowlighter/metrics) GitHub Action — combines isocalendar, coding habits, language breakdown, and recent activity into one cohesive themed panel instead of stitched-together badges.
-
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3A7BD5&center=true&vCenter=true&width=600&lines=Building+Intelligent+AI+Products;Full-Stack+Engineering+meets+Machine+Learning;Let's+build+something+amazing+together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3A7BD5&center=true&vCenter=true&width=600&lines=Building+Intelligent+AI+Products;Agentic+AI+meets+Real+World+Delivery;Let's+build+something+amazing+together!" alt="Typing SVG" />
 </p>
 
 <!--
