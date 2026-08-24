@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3A7BD5&center=true&vCenter=true&width=600&lines=AI/ML+Engineer;Agentic+AI+%26+NLP+Specialist;Generative+AI+Builder" alt="Sufyan's Titles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3A7BD5&center=true&vCenter=true&width=600&lines=AI/ML+Engineer;Agentic+AI+%26+NLP+Specialist;Deep+Learning+%26+GenAI+Builder" alt="Sufyan's Titles" />
 </p>
 
 <p align="center">
@@ -25,20 +25,20 @@
 
 ### 👨‍💻 About Me
 
-I build practical AI systems that connect intelligent reasoning with real-world software. My focus is on Agentic AI, Generative AI, Retrieval-Augmented Generation, NLP, and machine learning solutions that solve business problems and improve user experiences.
+I build practical AI systems that connect intelligent reasoning with real-world software. My focus is on Agentic AI, Generative AI, Retrieval-Augmented Generation, NLP, and deep-learning solutions that solve business problems and improve user experiences.
 
 - 🎓 **Education:** 6th-semester CS student at COMSATS University Islamabad, Lahore Campus.
 - 🏆 **Leadership:** President / Chairperson at **ACM COMSATS Lahore Chapter** (2025–2026).
-- 🚀 **What I Build:** Agentic AI systems, Generative AI products, NLP workflows, RAG architectures, and AI-powered SaaS applications.
+- 🚀 **What I Build:** Agentic AI systems, Generative AI products, NLP workflows, RAG architectures, deep-learning models (CNNs/ANNs), and AI-powered SaaS applications.
 - 🧠 **Currently Learning:** Autonomous AI agents, advanced prompting, LLM orchestration, cloud deployment, and production-grade AI systems.
-- ⚡ **Fun Fact:** I’ve shipped live AI products including a prompt optimization SaaS and an NLP phishing detector.
+- ⚡ **Fun Fact:** Beyond LLMs and agents, I also train classic deep-learning models — CNNs for medical imaging and ANNs for churn prediction.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
 <details open>
-<summary><b>🧠 Agentic AI, GenAI & NLP</b></summary>
+<summary><b>🧠 AI/ML — Agentic AI, GenAI, NLP & Deep Learning</b></summary>
 <br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
@@ -48,6 +48,8 @@ I build practical AI systems that connect intelligent reasoning with real-world 
   <img src="https://img.shields.io/badge/Generative%20AI-3B82F6?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/>
   <img src="https://img.shields.io/badge/Agentic%20AI-22C55E?style=for-the-badge&logo=chatbot&logoColor=white" alt="Agentic AI"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"/>
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
@@ -57,14 +59,12 @@ I build practical AI systems that connect intelligent reasoning with real-world 
 </details>
 
 <details open>
-<summary><b>🌐 Frontend & Product UI</b></summary>
+<summary><b>🌐 Product UI & Frontend</b></summary>
 <br>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
 </details>
 
 <details open>
@@ -87,9 +87,19 @@ I build practical AI systems that connect intelligent reasoning with real-world 
 
 | Project | Description | Live Link |
 |---------|-------------|-----------|
-| **Prompt Tutor AI** | AI SaaS platform that analyzes, scores, and optimizes LLM prompts across multiple dimensions to improve output quality and reliability. | [Live App](https://promptutor.app) |
-| **PhishGuard AI** | NLP-powered phishing detection engine achieving high accuracy using TF-IDF and machine learning classifiers. | [Live App](https://gmail-phish-guard.vercel.app) |
-| **Medical Diagnostic System** | ML-powered diagnostic engine benchmarking multiple models and integrating a relational graph structure for decision support. | [Live App](https://medical-diagnostic-sys.vercel.app) |
+| **Prompt Tutor AI** | AI SaaS that analyzes, scores, and optimizes LLM prompts across multiple dimensions to lift output quality and reliability. | [Live App](https://promptutor.app) |
+| **PhishGuard AI** | NLP phishing detector — TF-IDF + Logistic Regression paired with a hybrid heuristic rules engine and a 20-worker concurrent Gmail scanner. | [Live App](https://gmail-phish-guard.vercel.app) |
+| **Medical Diagnostic System** | Probabilistic inference engine blending Random Forest with a Bayesian Network over a Neo4j knowledge graph to rank likely conditions from symptoms. | [Live App](https://medical-diagnostic-sys.vercel.app) |
+| **Health Risk Predictor** | Random Forest over a 270K-record, 10-feature lifestyle dataset predicting 3-tier health risk, served via a stateless Flask app with inline reports. | [Live App](https://health-level-prediction.vercel.app) |
+
+---
+
+### 🧪 Machine Learning & Deep Learning
+
+| Project | Description | Code |
+|---------|-------------|------|
+| **Telco Customer Churn — ANN** | Keras ANN (64→32→1) on the 7,043-record IBM Telco dataset — stratified split, inverse-frequency class weighting, and a Streamlit analytics dashboard. | [GitHub](https://github.com/SufyExpert/TelcoChurnPrediction) |
+| **Brain Tumor MRI — CNN** | Custom 3-block CNN (32→64→128) with Batch Normalization + Global Average Pooling classifying brain MRI scans into 4 tumor categories. | [GitHub](https://github.com/SufyExpert/brain-tumor-cnn) |
 
 ---
 
