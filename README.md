@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3A7BD5&center=true&vCenter=true&width=600&lines=AI/ML+Engineer;Agentic+AI+%26+NLP+Specialist;Deep+Learning+%26+GenAI+Builder" alt="Sufyan's Titles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3A7BD5&center=true&vCenter=true&width=600&lines=AI/ML+Engineer;Agentic+AI+%26+NLP+Specialist;Generative+AI+Builder" alt="Sufyan's Titles" />
 </p>
 
 <p align="center">
