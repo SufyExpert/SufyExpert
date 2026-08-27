@@ -120,9 +120,9 @@ I build practical AI systems that connect intelligent reasoning with real-world 
   <img src="https://github-readme-stats-two-orcin-29.vercel.app/api/top-langs/?username=SufyExpert&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=1800" alt="Top Languages" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SufyExpert&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
+</p> -->
 
 ---
 
