@@ -87,6 +87,7 @@ I build practical AI systems that connect intelligent reasoning with real-world 
 
 | Project | Description | Live Link |
 |---------|-------------|-----------|
+| **Idea Atlas** | Multi-agent research system spanning 15 LangGraph nodes with map-reduce discovery pipelines and parallel research branches. | [GitHub](https://github.com/SufyExpert) |
 | **Prompt Tutor AI** | AI SaaS that analyzes, scores, and optimizes LLM prompts across multiple dimensions to lift output quality and reliability. | [Live App](https://promptutor.app) |
 | **PhishGuard AI** | NLP phishing detector — TF-IDF + Logistic Regression paired with a hybrid heuristic rules engine and a 20-worker concurrent Gmail scanner. | [Live App](https://gmail-phish-guard.vercel.app) |
 | **Medical Diagnostic System** | Probabilistic inference engine blending Random Forest with a Bayesian Network over a Neo4j knowledge graph to rank likely conditions from symptoms. | [Live App](https://medical-diagnostic-sys.vercel.app) |
@@ -98,6 +99,7 @@ I build practical AI systems that connect intelligent reasoning with real-world 
 
 | Project | Description | Code |
 |---------|-------------|------|
+| **Learnova AI** | Adaptive learning platform using Bayesian Knowledge Tracing (BKT) and LLM reasoning engines to build dynamic learning roadmaps. | [GitHub](https://github.com/SufyExpert) |
 | **Telco Customer Churn — ANN** | Keras ANN (64→32→1) on the 7,043-record IBM Telco dataset — stratified split, inverse-frequency class weighting, and a Streamlit analytics dashboard. | [GitHub](https://github.com/SufyExpert/TelcoChurnPrediction) |
 | **Brain Tumor MRI — CNN** | Custom 3-block CNN (32→64→128) with Batch Normalization + Global Average Pooling classifying brain MRI scans into 4 tumor categories. | [GitHub](https://github.com/SufyExpert/brain-tumor-cnn) |
 
